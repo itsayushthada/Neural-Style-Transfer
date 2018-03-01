@@ -1,0 +1,1 @@
+This directory contain the pretrained VGG-19 model in .mat format. It is really big in size so I will upload it on my google drive and give a link soon.
